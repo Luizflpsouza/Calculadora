@@ -1,5 +1,5 @@
 # Calculadora
-Project Name
+Inteligência artificial.
 Este meu projeto, que chamo de “inteligência artificial”, apesar de não ser tão inteligente pelas suas limitações, tanto em termos de tecnologia como de conhecimento por parte do seu criador (eu).
 Estou disponibilizando para o público, e pelo menos uma vez por mês trarei uma atualização do projeto.
 
